@@ -8,7 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     // 1. Änderung 
     // 2. Änderung
-    cout << "Yur" << endl;
+    std::cout << "Yur" << std::endl;
 }
 
 // Programm ausführen: STRG+F5 oder Menüeintrag "Debuggen" > "Starten ohne Debuggen starten"
