@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    // 1. Änderung 
 }
 
 // Programm ausführen: STRG+F5 oder Menüeintrag "Debuggen" > "Starten ohne Debuggen starten"
