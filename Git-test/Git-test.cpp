@@ -9,6 +9,7 @@ int main()
     // 1. Änderung 
     // 2. Änderung
     std::cout << "Yur" << std::endl;
+    std::cout << "Hallo!" << std::endl;
 }
 
 // Programm ausführen: STRG+F5 oder Menüeintrag "Debuggen" > "Starten ohne Debuggen starten"
